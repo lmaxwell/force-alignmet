@@ -5,23 +5,25 @@ PS:It is for mandarine,if you want to use it for other languages,you need to cha
 any questions contact me: shysian@gmail.com
 
 
-Requirements
 
+Requirements
+--------------------------------------------
 HTK  http://htk.eng.cam.ac.uk/
 Perl5.8
 GNU make
---------------------------------------------
+
+
 
 Directory
-
+--------------------------------------------
 wav :wav files
 script : perl script to do aligning
 general : dictionary transcription and other general files
 cofig: config files for HTK
 
 
----------------------------------------
 Tutorial
+---------------------------------------
  step 1(preparation):
  1 Edit line 2 in script/align.pl,specify your HTK PATH
  2 Put your wav files in wav directory	
