@@ -1,0 +1,820 @@
+ai  ai
+ai  ai sp
+ang  ang
+ang  ang sp
+an  an
+an  an sp
+a  a
+a  a sp
+ao  ao
+ao  ao sp
+ba b a
+ba b a sp
+bai b ai
+bai b ai sp
+ban b an
+ban b an sp
+bang b ang
+bang b ang sp
+bao b ao
+bao b ao sp
+bei b ei
+bei b ei sp
+ben b en
+ben b en sp
+beng b eng
+beng b eng sp
+bian b ian
+bian b ian sp
+biao b iao
+biao b iao sp
+bi b i
+bi b i sp
+bie b ie
+bie b ie sp
+bin b in
+bin b in sp
+bing b ing
+bing b ing sp
+bo b o
+bo b o sp
+bu b u
+bu b u sp
+ca c a
+ca c a sp
+cai c ai
+cai c ai sp
+can c an
+can c an sp
+cang c ang
+cang c ang sp
+cao c ao
+cao c ao sp
+ce c e
+ce c e sp
+cen c en
+cen c en sp
+ceng c eng
+ceng c eng sp
+cha ch a
+cha ch a sp
+chai ch ai
+chai ch ai sp
+chan ch an
+chan ch an sp
+chang ch ang
+chang ch ang sp
+chao ch ao
+chao ch ao sp
+che ch e
+che ch e sp
+chen ch en
+chen ch en sp
+cheng ch eng
+cheng ch eng sp
+chi ch iii
+chi ch iii sp
+chong ch ong
+chong ch ong sp
+chou ch ou
+chou ch ou sp
+chuai ch uai
+chuai ch uai sp
+chuan ch uan
+chuan ch uan sp
+chuang ch uang
+chuang ch uang sp
+chu ch u
+chu ch u sp
+chui ch uei
+chui ch uei sp
+chun ch uen
+chun ch uen sp
+chuo ch uo
+chuo ch uo sp
+ci c ii
+ci c ii sp
+cong c ong
+cong c ong sp
+cou c ou
+cou c ou sp
+cuan c uan
+cuan c uan sp
+cu c u
+cu c u sp
+cui c uei
+cui c uei sp
+cun c uen
+cun c uen sp
+cuo c uo
+cuo c uo sp
+da d a
+da d a sp
+dai d ai
+dai d ai sp
+dan d an
+dan d an sp
+dang d ang
+dang d ang sp
+dao d ao
+dao d ao sp
+de d e
+de d e sp
+dei d ei
+dei d ei sp
+den d en
+den d en sp
+deng d eng
+deng d eng sp
+dia d ia
+dia d ia sp
+dian d ian
+dian d ian sp
+diao d iao
+diao d iao sp
+di d i
+di d i sp
+die d ie
+die d ie sp
+ding d ing
+ding d ing sp
+diu d iou
+diu d iou sp
+dong d ong
+dong d ong sp
+dou d ou
+dou d ou sp
+duan d uan
+duan d uan sp
+du d u
+du d u sp
+dui d uei
+dui d uei sp
+dun d uen
+dun d uen sp
+duo d uo
+duo d uo sp
+ei  ei
+ei  ei sp
+eng  eng
+eng  eng sp
+en  en
+en  en sp
+e  e
+e  e sp
+er  er
+er  er sp
+fa f a
+fa f a sp
+fan f an
+fan f an sp
+fang f ang
+fang f ang sp
+fei f ei
+fei f ei sp
+fen f en
+fen f en sp
+feng f eng
+feng f eng sp
+fo f o
+fo f o sp
+fou f ou
+fou f ou sp
+fu f u
+fu f u sp
+ga g a
+ga g a sp
+gai g ai
+gai g ai sp
+gan g an
+gan g an sp
+gang g ang
+gang g ang sp
+gao g ao
+gao g ao sp
+ge g e
+ge g e sp
+gei g ei
+gei g ei sp
+gen g en
+gen g en sp
+geng g eng
+geng g eng sp
+gong g ong
+gong g ong sp
+gou g ou
+gou g ou sp
+gua g ua
+gua g ua sp
+guai g uai
+guai g uai sp
+guang g uang
+guang g uang sp
+guan g uan
+guan g uan sp
+gu g u
+gu g u sp
+gui g uei
+gui g uei sp
+gun g uen
+gun g uen sp
+guo g uo
+guo g uo sp
+ha h a
+ha h a sp
+hai h ai
+hai h ai sp
+hang h ang
+hang h ang sp
+han h an
+han h an sp
+hao h ao
+hao h ao sp
+he h e
+he h e sp
+hei h ei
+hei h ei sp
+heng h eng
+heng h eng sp
+hen h en
+hen h en sp
+hong h ong
+hong h ong sp
+hou h ou
+hou h ou sp
+hua h ua
+hua h ua sp
+huai h uai
+huai h uai sp
+huang h uang
+huang h uang sp
+huan h uan
+huan h uan sp
+hu h u
+hu h u sp
+hui h uei
+hui h uei sp
+hun h uen
+hun h uen sp
+huo h uo
+huo h uo sp
+jia j ia
+jia j ia sp
+jiang j iang
+jiang j iang sp
+jian j ian
+jian j ian sp
+jiao j iao
+jiao j iao sp
+jie j ie
+jie j ie sp
+ji j i
+ji j i sp
+jing j ing
+jing j ing sp
+jin j in
+jin j in sp
+jiong j iong
+jiong j iong sp
+jiu j iou
+jiu j iou sp
+juan j van
+juan j van sp
+jue j ve
+jue j ve sp
+ju j v
+ju j v sp
+jun j vn
+jun j vn sp
+kai k ai
+kai k ai sp
+ka k a
+ka k a sp
+kang k ang
+kang k ang sp
+kan k an
+kan k an sp
+kao k ao
+kao k ao sp
+kei k ei
+kei k ei sp
+ke k e
+ke k e sp
+keng k eng
+keng k eng sp
+ken k en
+ken k en sp
+kong k ong
+kong k ong sp
+kou k ou
+kou k ou sp
+kuai k uai
+kuai k uai sp
+kua k ua
+kua k ua sp
+kuang k uang
+kuang k uang sp
+kuan k uan
+kuan k uan sp
+kui k uei
+kui k uei sp
+ku k u
+ku k u sp
+kun k uen
+kun k uen sp
+kuo k uo
+kuo k uo sp
+lai l ai
+lai l ai sp
+la l a
+la l a sp
+lang l ang
+lang l ang sp
+lan l an
+lan l an sp
+lao l ao
+lao l ao sp
+lei l ei
+lei l ei sp
+le l e
+le l e sp
+leng l eng
+leng l eng sp
+lia l ia
+lia l ia sp
+liang l iang
+liang l iang sp
+lian l ian
+lian l ian sp
+liao l iao
+liao l iao sp
+lie l ie
+lie l ie sp
+li l i
+li l i sp
+ling l ing
+ling l ing sp
+lin l in
+lin l in sp
+liu l iou
+liu l iou sp
+lo l o
+lo l o sp
+long l ong
+long l ong sp
+lou l ou
+lou l ou sp
+luan l uan
+luan l uan sp
+lue l ve
+lue l ve sp
+lu l u
+lu l u sp
+lun l uen
+lun l uen sp
+luo l uo
+luo l uo sp
+lv l v
+lv l v sp
+mai m ai
+mai m ai sp
+ma m a
+ma m a sp
+mang m ang
+mang m ang sp
+man m an
+man m an sp
+mao m ao
+mao m ao sp
+mei m ei
+mei m ei sp
+me m e
+me m e sp
+meng m eng
+meng m eng sp
+men m en
+men m en sp
+mian m ian
+mian m ian sp
+miao m iao
+miao m iao sp
+mie m ie
+mie m ie sp
+mi m i
+mi m i sp
+ming m ing
+ming m ing sp
+min m in
+min m in sp
+miu m iou
+miu m iou sp
+mo m o
+mo m o sp
+mou m ou
+mou m ou sp
+mu m u
+mu m u sp
+nai n ai
+nai n ai sp
+na n a
+na n a sp
+nang n ang
+nang n ang sp
+nan n an
+nan n an sp
+nao n ao
+nao n ao sp
+nei n ei
+nei n ei sp
+ne n e
+ne n e sp
+neng n eng
+neng n eng sp
+nen n en
+nen n en sp
+niang n iang
+niang n iang sp
+nian n ian
+nian n ian sp
+niao n iao
+niao n iao sp
+nie n ie
+nie n ie sp
+ning n ing
+ning n ing sp
+ni n i
+ni n i sp
+nin n in
+nin n in sp
+niu n iou
+niu n iou sp
+nong n ong
+nong n ong sp
+nou n ou
+nou n ou sp
+nuan n uan
+nuan n uan sp
+nue n ve
+nue n ve sp
+nu n u
+nu n u sp
+nuo n uo
+nuo n uo sp
+nv n v
+nv n v sp
+o  o
+o  o sp
+ou  ou
+ou  ou sp
+pai p ai
+pai p ai sp
+pang p ang
+pang p ang sp
+pan p an
+pan p an sp
+pao p ao
+pao p ao sp
+pa p a
+pa p a sp
+pei p ei
+pei p ei sp
+peng p eng
+peng p eng sp
+pen p en
+pen p en sp
+pian p ian
+pian p ian sp
+piao p iao
+piao p iao sp
+pie p ie
+pie p ie sp
+ping p ing
+ping p ing sp
+pin p in
+pin p in sp
+pi p i
+pi p i sp
+po p o
+po p o sp
+pou p ou
+pou p ou sp
+pu p u
+pu p u sp
+qiang q iang
+qiang q iang sp
+qian q ian
+qian q ian sp
+qiao q iao
+qiao q iao sp
+qia q ia
+qia q ia sp
+qie q ie
+qie q ie sp
+qing q ing
+qing q ing sp
+qin q in
+qin q in sp
+qiong q iong
+qiong q iong sp
+qi q i
+qi q i sp
+qiu q iou
+qiu q iou sp
+quan q van
+quan q van sp
+que q ve
+que q ve sp
+qun q vn
+qun q vn sp
+qu q v
+qu q v sp
+rang r ang
+rang r ang sp
+ran r an
+ran r an sp
+rao r ao
+rao r ao sp
+reng r eng
+reng r eng sp
+ren r en
+ren r en sp
+re r e
+re r e sp
+ri r iii
+ri r iii sp
+rong r ong
+rong r ong sp
+rou r ou
+rou r ou sp
+ruan r uan
+ruan r uan sp
+rua r ua
+rua r ua sp
+rui r uei
+rui r uei sp
+run r uen
+run r uen sp
+ruo r uo
+ruo r uo sp
+ru r u
+ru r u sp
+sai s ai
+sai s ai sp
+sang s ang
+sang s ang sp
+san s an
+san s an sp
+sao s ao
+sao s ao sp
+sa s a
+sa s a sp
+seng s eng
+seng s eng sp
+sen s en
+sen s en sp
+se s e
+se s e sp
+shai sh ai
+shai sh ai sp
+shang sh ang
+shang sh ang sp
+shan sh an
+shan sh an sp
+shao sh ao
+shao sh ao sp
+sha sh a
+sha sh a sp
+shei sh ei
+shei sh ei sp
+sheng sh eng
+sheng sh eng sp
+shen sh en
+shen sh en sp
+she sh e
+she sh e sp
+shi sh iii
+shi sh iii sp
+shou sh ou
+shou sh ou sp
+shuai sh uai
+shuai sh uai sp
+shuang sh uang
+shuang sh uang sp
+shuan sh uan
+shuan sh uan sp
+shua sh ua
+shua sh ua sp
+shui sh uei
+shui sh uei sp
+shun sh uen
+shun sh uen sp
+shuo sh uo
+shuo sh uo sp
+shu sh u
+shu sh u sp
+si s ii
+si s ii sp
+song s ong
+song s ong sp
+sou s ou
+sou s ou sp
+suan s uan
+suan s uan sp
+sui s uei
+sui s uei sp
+sun s uen
+sun s uen sp
+suo s uo
+suo s uo sp
+su s u
+su s u sp
+tai t ai
+tai t ai sp
+tang t ang
+tang t ang sp
+tan t an
+tan t an sp
+tao t ao
+tao t ao sp
+ta t a
+ta t a sp
+tei t ei
+tei t ei sp
+teng t eng
+teng t eng sp
+te t e
+te t e sp
+tian t ian
+tian t ian sp
+tiao t iao
+tiao t iao sp
+tie t ie
+tie t ie sp
+ting t ing
+ting t ing sp
+ti t i
+ti t i sp
+tong t ong
+tong t ong sp
+tou t ou
+tou t ou sp
+tuan t uan
+tuan t uan sp
+tui t uei
+tui t uei sp
+tun t uen
+tun t uen sp
+tuo t uo
+tuo t uo sp
+tu t u
+tu t u sp
+wai  uai
+wai  uai sp
+wang  uang
+wang  uang sp
+wan  uan
+wan  uan sp
+wa  ua
+wa  ua sp
+wei  uei
+wei  uei sp
+weng  uen
+weng  uen sp
+wen  uen
+wen  uen sp
+wo  uo
+wo  uo sp
+wu  u
+wu  u sp
+xiang x iang
+xiang x iang sp
+xian x ian
+xian x ian sp
+xiao x iao
+xiao x iao sp
+xia x ia
+xia x ia sp
+xie x ie
+xie x ie sp
+xing x ing
+xing x ing sp
+xin x in
+xin x in sp
+xiong x iong
+xiong x iong sp
+xiu x iou
+xiu x iou sp
+xi x i
+xi x i sp
+xuan x van
+xuan x van sp
+xue x ve
+xue x ve sp
+xun x vn
+xun x vn sp
+xu x v
+xu x v sp
+yang  iang
+yang  iang sp
+yan  ian
+yan  ian sp
+ya  ia
+ya  ia sp
+yao  iao
+yao  iao sp
+ye  ie
+ye  ie sp
+ying  ing
+ying  ing sp
+yin  in
+yin  in sp
+yi  i
+yi  i sp
+yong  iong
+yong  iong sp
+yo  iou
+yo  iou sp
+you  iou
+you  iou sp
+yuan  van
+yuan  van sp
+yue  ve
+yue  ve sp
+yun  vn
+yun  vn sp
+yu  v
+yu  v sp
+zai z ai
+zai z ai sp
+zang z ang
+zang z ang sp
+zan z an
+zan z an sp
+zao z ao
+zao z ao sp
+za z a
+za z a sp
+zei z ei
+zei z ei sp
+zeng z eng
+zeng z eng sp
+zen z en
+zen z en sp
+ze z e
+ze z e sp
+zhai zh ai
+zhai zh ai sp
+zhang zh ang
+zhang zh ang sp
+zhan zh an
+zhan zh an sp
+zhao zh ao
+zhao zh ao sp
+zha zh a
+zha zh a sp
+zhei zh ei
+zhei zh ei sp
+zheng zh eng
+zheng zh eng sp
+zhen zh en
+zhen zh en sp
+zhe zh e
+zhe zh e sp
+zhi zh iii
+zhi zh iii sp
+zhong zh ong
+zhong zh ong sp
+zhou zh ou
+zhou zh ou sp
+zhuai zh uai
+zhuai zh uai sp
+zhuang zh uang
+zhuang zh uang sp
+zhuan zh uan
+zhuan zh uan sp
+zhua zh ua
+zhua zh ua sp
+zhui zh uei
+zhui zh uei sp
+zhun zh uen
+zhun zh uen sp
+zhuo zh uo
+zhuo zh uo sp
+zhu zh u
+zhu zh u sp
+zi z ii
+zi z ii sp
+zong z ong
+zong z ong sp
+zou z ou
+zou z ou sp
+zuan z uan
+zuan z uan sp
+zui z uei
+zui z uei sp
+zun z uen
+zun z uen sp
+zuo z uo
+zuo z uo sp
+zu z u
+zu z u sp
