@@ -14,22 +14,18 @@ my $nIter=10;
 #
 #
 #流程控制
-=a
 my $INIT=1;
 my $EXTRACT=1;
 my $MK_PROTO=1;
 my $FLAT=1;
-
 my $EMBEDED0=1;
+
 my $ALIGN1=1;
-=cut
+
 my $REINIT=1;
 
 my $EMBEDED1=1;
-
-
 my $ALIGN=1;
-#
 
 
 if($INIT)
@@ -46,7 +42,10 @@ for (@wavs)
 {
 	my $name=`basename $_ .wav`;
 	chomp $name;
-	print SCP "$_ mfc/$name.mfc\n";
+	if(-e $_ and -e "lab/$name.lab")
+	{
+		print SCP "$_ mfc/$name.mfc\n";
+	}
 }
 system('awk \'{print $2}\' general/hcopy.scp >general/train.scp');
 
@@ -160,6 +159,7 @@ if($ALIGN1)
 mkdir "lab2",0755;
 system("HVite -a -b sil  -D -T 1 -A -m -l lab2  -y lab -o SW -I   general/words.mlf -S general/train.scp -H mmf/hmm$nHmm1/monophone.mmf  general/dict  general/phoneme.lst");
 }
+
 
 if($REINIT)
 {
