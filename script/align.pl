@@ -6,6 +6,7 @@ $HERest=" $HTK/HERest  -A -D  -T 1 ";
 $HCompV="$HTK/HCompV -A -D -T 1 -C config/train.cfg";
 $HInit="$HTK/HInit -A -D -T 1 -C config/train.cfg";
 $HRest="$HTK/HRest -A -D -T 1 -C config/train.cfg";
+$HVite="$HTK/HVite";
 ##全局参数设置
 my $vecsize=39;
 my $featuretype="MFCC_0_D_A";
@@ -157,7 +158,7 @@ if($EMBEDED0)
 if($ALIGN1)
 {
 mkdir "lab2",0755;
-system("HVite -a -b sil  -D -T 1 -A -m -l lab2  -y lab -o SW -I   general/words.mlf -S general/train.scp -H mmf/hmm$nHmm1/monophone.mmf  general/dict  general/phoneme.lst");
+system("$HVite -a -b sil  -D -T 1 -A -m -l lab2  -y lab -o SW -I   general/words.mlf -S general/train.scp -H mmf/hmm$nHmm1/monophone.mmf  general/dict  general/phoneme.lst");
 }
 
 
@@ -197,7 +198,7 @@ mkdir "lab3",0755;
 for(my $i=$nHmm1+1;$i<=$nHmm1+$nHmm2;$i++)
 {
 mkdir "lab3/$i",0755;
-system("HVite -a -b sil  -D -T 1 -A -m -l lab3/$i  -y lab -o SW -I   general/words.mlf -S general/train.scp -H mmf/hmm$i/monophone.mmf  general/dict  general/phoneme.lst");
+system("$HVite -a -b sil  -D -T 1 -A -m -l lab3/$i  -y lab -o SW -I   general/words.mlf -S general/train.scp -H mmf/hmm$i/monophone.mmf  general/dict  general/phoneme.lst");
 for (<lab3/$i/*.lab>)
 {
 system("HLEd -l lab3/$i general/delspbeforsil.hed $_\n");
