@@ -2,7 +2,6 @@ This is a tool for auto align a corpus using HTK toolkit.I impelemented it for m
 who are not familiar with this.
 PS:It is for mandarine,if you want to use it for other languages,you need to change the dict file in general directory for your language.
 
-any questions contact me: shysian@gmail.com
 
 
 
